@@ -1,0 +1,8 @@
+header {
+    size-adjust:initial;
+    align-items: center;
+}
+#colonnes {
+    border: solid black 2px;
+
+}
